@@ -16,5 +16,5 @@ authentication.
 - Open the "`Run and Debug`" pane (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>)
 - Select the "`Debug VSCode env`" launch task
 - Click "`Start Debugging`" or press <kbd>F5</kbd> to run the task
-- Check the output in the '`Debug Console`"
+- Check the output in the "`Debug Console`"
 
