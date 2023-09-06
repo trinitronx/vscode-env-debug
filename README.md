@@ -12,7 +12,7 @@ authentication.
 
 ## Usage
 
-- Open the `.vscode/vscode-env-debug.project-workspace` using VSCode / Code OSS.
+- Open the `.vscode/vscode-env-debug.code-workspace` using VSCode / Code OSS.
 - Open the "`Run and Debug`" pane (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>)
 - Select the "`Debug VSCode env`" launch task
 - Click "`Start Debugging`" or press <kbd>F5</kbd> to run the task
